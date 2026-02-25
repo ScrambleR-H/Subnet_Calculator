@@ -85,4 +85,12 @@ Open `index.html` in any modern browser (Chrome, Edge, Firefox).
 ## Author
 
 **Hassaan Majid (ScrambleR)**
+- GitHub: [https://github.com/ScrambleR-H]
+- LinkedIn: [Your LinkedIn URL]
+
+---
+
+## License
+
+Open source — free to use, modify, and share for personal and commercial projects.
 
