@@ -86,7 +86,7 @@ Open `index.html` in any modern browser (Chrome, Edge, Firefox).
 
 **Hassaan Majid (ScrambleR)**
 - GitHub: [https://github.com/ScrambleR-H]
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: [www.linkedin.com/in/hassaan-majid-7826b13a6]
 
 ---
 
