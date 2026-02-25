@@ -85,4 +85,4 @@ Open `index.html` in any modern browser (Chrome, Edge, Firefox).
 ## Author
 
 **Hassaan Majid (ScrambleR)**
-Aspiring Software Engineer | Web Development Enthusiast | Cybersecurity Curious
+
