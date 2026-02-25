@@ -91,9 +91,9 @@ This tool should not be used as the sole basis for security decisions in real-wo
 
 ---
 
-**Hassaan Majid (ScrambleR)**
+**ScrambleR**
 - GitHub: [https://github.com/ScrambleR-H]
-- LinkedIn: [www.linkedin.com/in/hassaan-majid-7826b13a6]
+- LinkedIn: [www.linkedin.com/in/scrambler-hhh-7826b13a6]
 
 ---
 
