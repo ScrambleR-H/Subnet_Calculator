@@ -82,7 +82,14 @@ Open `index.html` in any modern browser (Chrome, Edge, Firefox).
 
 ---
 
+Disclaimer
+
+PhishGuard is designed for educational and demonstration purposes only. The analysis results may not always be fully accurate because the project currently uses a free-tier AI API, which can have limitations in reliability, rate limits, and detection precision.
+
+This tool should not be used as the sole basis for security decisions in real-world or production environments.
 ## Author
+
+---
 
 **Hassaan Majid (ScrambleR)**
 - GitHub: [https://github.com/ScrambleR-H]
